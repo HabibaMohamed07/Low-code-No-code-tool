@@ -1,0 +1,1 @@
+export let indexar = { index: 0 };
